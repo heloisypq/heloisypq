@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim  
-Desenvolvedora web focada em React, com experiência em .NET.
+Desenvolvedora web com experiência em .NET.
 
 ## 📊 Minhas estatísticas no GitHub  
 <div align="center">
@@ -8,5 +8,6 @@ Desenvolvedora web focada em React, com experiência em .NET.
 </div>
 
 ## 🛠 Tecnologias  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) Experiência com .NET para desenvolvimento backend.
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
+
