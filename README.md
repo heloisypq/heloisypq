@@ -9,5 +9,4 @@ Desenvolvedora web com experiência em .NET.
 
 ## 🛠 Tecnologias  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) Experiência com .NET para desenvolvimento backend.
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
-
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
