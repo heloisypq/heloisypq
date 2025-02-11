@@ -1,16 +1,12 @@
-## Hi there 👋
+## 🚀 Sobre mim  
+Desenvolvedora web focada em React, com experiência em .NET.
 
-<!--
-**heloisypq/heloisypq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Minhas estatísticas no GitHub  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) Experiência com .NET para desenvolvimento backend.
